@@ -1,0 +1,7 @@
+﻿  main.cpp
+  mcman.cpp
+F:\F백업 최종\수업\2015가을\몬테칼로 방사선 해석\monte carlo radiation analysis\exercise3 application of biased sampling\exercise3 application of biased sampling\mcman.cpp(78,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\F백업 최종\수업\2015가을\몬테칼로 방사선 해석\monte carlo radiation analysis\exercise3 application of biased sampling\exercise3 application of biased sampling\mcman.cpp(106,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  rng.cpp
+  Generating Code...
+  exercise3 application of biased sampling.vcxproj -> F:\F백업 최종\수업\2015가을\몬테칼로 방사선 해석\monte carlo radiation analysis\exercise3 application of biased sampling\Debug\exercise3 application of biased sampling.exe
